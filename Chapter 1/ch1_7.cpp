@@ -1,7 +1,9 @@
+// 문제 11718번. 그대로 출력하기
 #include <iostream>
 #include <string>
 using namespace std;
 
+// Tip. endl보다는 '\n'을 사용하는 게 속도가 훨씬 빠름.
 int main() {
 	string input;
 	string result;

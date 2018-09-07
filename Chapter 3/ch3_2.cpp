@@ -1,3 +1,4 @@
+// 문제 2742번. 기찍 N
 #include <iostream>
 using namespace std;
 

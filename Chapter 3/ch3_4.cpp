@@ -1,3 +1,4 @@
+// 문제 2438번. 별 찍기 - 1
 #include <iostream>
 using namespace std;
 

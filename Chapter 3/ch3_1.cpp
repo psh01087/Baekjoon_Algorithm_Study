@@ -1,3 +1,4 @@
+// 문제 2741번. N 찍기
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,4 @@
+// 문제 7287번. 등록
 #include <iostream>
 using namespace std;
 

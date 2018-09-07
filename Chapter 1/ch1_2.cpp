@@ -1,3 +1,4 @@
+// ¹®Á¦ 1000¹ø. A+B 
 #include <iostream>
 using namespace std;
 

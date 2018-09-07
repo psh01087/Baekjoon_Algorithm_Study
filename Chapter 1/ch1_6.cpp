@@ -1,3 +1,4 @@
+// ¹®Á¦ 10718¹ø. We Love kriii
 #include <iostream>
 using namespace std;
 

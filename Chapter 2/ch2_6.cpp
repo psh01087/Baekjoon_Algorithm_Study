@@ -1,3 +1,4 @@
+// 문제 10430번. 나머지
 #include <iostream>
 using namespace std;
 

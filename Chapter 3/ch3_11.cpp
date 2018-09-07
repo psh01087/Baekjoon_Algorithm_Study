@@ -1,3 +1,4 @@
+// 문제 11721번. 열 개씩 끊어 출력하기
 #include <iostream>
 #include <string>
 using namespace std;
